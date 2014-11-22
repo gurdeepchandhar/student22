@@ -3,4 +3,8 @@
 {
 int a,b;
 
+printf("enter the marks");
+scanf("%d",&a);
+printf("enetr the marks");
+scanf("%d",&b);
 }
